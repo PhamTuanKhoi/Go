@@ -4,7 +4,8 @@ func main() {
 	// Variable()
 	// Datatype()
 	// ConstantEnum()
-	Array()
+	// Array()
+	MapStruct()
 }
 
 // go run main.go 2_dataType.go
