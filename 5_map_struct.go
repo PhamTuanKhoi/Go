@@ -18,6 +18,7 @@ type Fish struct {
 
 func MapStruct() {
 
+	// map ->position order change
 	member := map[string]string{
 		"name": "lee",
 	}

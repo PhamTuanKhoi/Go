@@ -6,7 +6,8 @@ func main() {
 	// ConstantEnum()
 	// Array()
 	// MapStruct()
-	IfSwitch()
+	// IfSwitch()
+	Loop()
 }
 
 // go run main.go 2_dataType.go
