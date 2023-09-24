@@ -9,7 +9,8 @@ func main() {
 	// IfSwitch()
 	// Loop()
 	// DeferRecoverPanic()
-	Pointer()
+	// Pointer()
+	Func()
 }
 
 // go run main.go 2_dataType.go
