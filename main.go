@@ -7,7 +7,8 @@ func main() {
 	// Array()
 	// MapStruct()
 	// IfSwitch()
-	Loop()
+	// Loop()
+	DeferRecoverPanic()
 }
 
 // go run main.go 2_dataType.go
