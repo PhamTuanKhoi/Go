@@ -8,7 +8,8 @@ func main() {
 	// MapStruct()
 	// IfSwitch()
 	// Loop()
-	DeferRecoverPanic()
+	// DeferRecoverPanic()
+	Pointer()
 }
 
 // go run main.go 2_dataType.go
