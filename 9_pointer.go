@@ -6,6 +6,8 @@ import "fmt"
 	syntax:
 		* -> point memory
 		& -> address memory
+
+	use to slice and map
 */
 
 func Pointer() {
